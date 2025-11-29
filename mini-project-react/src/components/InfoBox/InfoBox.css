@@ -1,0 +1,18 @@
+.info-box{
+    text-align: center;
+    width: 100vw;
+
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    
+}
+
+.card{
+    margin: 10px;
+    width: 250px;
+    
+}
